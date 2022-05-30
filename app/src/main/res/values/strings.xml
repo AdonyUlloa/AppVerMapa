@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My ApplicationLab2</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="ir_a_mapa">Ir a mapa</string>
+</resources>
